@@ -6,4 +6,5 @@ package com.example.hoang.listviewsimplelistitemchecked;
 
 public class Shit {
     private String Wearetheshit;
+    public int shit;
 }
